@@ -10,7 +10,7 @@ public class WelcomeController {
 
     @RequestMapping(value = "/greet")
     public String greet(){
-        return "Greeting from research proj!!!";
+        return "Greeting from research project!!!";
     }
 
 
